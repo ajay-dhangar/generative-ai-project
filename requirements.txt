@@ -1,0 +1,2 @@
+tensorflow==2.18.0  # Ensure TensorFlow version matches your environment
+# numpy==1.21.0       # Compatible numpy version for TensorFlow
